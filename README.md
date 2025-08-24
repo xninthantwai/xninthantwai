@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xninthantwai
-- 👀 I’m interested in javascript!
-- 🌱 I’m currently learning PHP and Laravel Framework.
-- 💞️ I’m looking to collaborate with web developers.
+- 👀 I’m interested in Java!
+- 🌱 I’m currently learning Java and React.
+- 💞️ I’m looking to collaborate with Software developers.
 - 📫 How to reach me ...https://www.facebook.com/hninthant.wai.33
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
