@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xninthantwai
 - 👀 I’m interested in Java!
 - 🌱 I’m currently learning Java and React.
-- 💞️ I’m looking to collaborate with Software developers.
+- 💞️ I’m looking to collaborate with Software Developer !
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
